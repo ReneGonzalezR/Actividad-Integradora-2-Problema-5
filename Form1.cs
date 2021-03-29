@@ -9,7 +9,6 @@ namespace Actividad_Integradora_2_Problema_5
         public Form1()
         {
             InitializeComponent();
-            
         }
 
         private void btnMenor5_Click(object sender, EventArgs e)

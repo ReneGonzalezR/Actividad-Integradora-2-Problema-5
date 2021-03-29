@@ -37,7 +37,7 @@ namespace Actividad_Integradora_2_Problema_5
             // 
             // btnMenor5
             // 
-            this.btnMenor5.Location = new System.Drawing.Point(53, 47);
+            this.btnMenor5.Location = new System.Drawing.Point(175, 60);
             this.btnMenor5.Name = "btnMenor5";
             this.btnMenor5.Size = new System.Drawing.Size(467, 58);
             this.btnMenor5.TabIndex = 0;
@@ -47,7 +47,7 @@ namespace Actividad_Integradora_2_Problema_5
             // 
             // rtbDatos
             // 
-            this.rtbDatos.Location = new System.Drawing.Point(53, 310);
+            this.rtbDatos.Location = new System.Drawing.Point(175, 323);
             this.rtbDatos.Name = "rtbDatos";
             this.rtbDatos.Size = new System.Drawing.Size(467, 382);
             this.rtbDatos.TabIndex = 1;
@@ -55,7 +55,7 @@ namespace Actividad_Integradora_2_Problema_5
             // 
             // btnTodas
             // 
-            this.btnTodas.Location = new System.Drawing.Point(53, 129);
+            this.btnTodas.Location = new System.Drawing.Point(175, 142);
             this.btnTodas.Name = "btnTodas";
             this.btnTodas.Size = new System.Drawing.Size(467, 58);
             this.btnTodas.TabIndex = 2;
@@ -65,7 +65,7 @@ namespace Actividad_Integradora_2_Problema_5
             // 
             // btnMenorVenta
             // 
-            this.btnMenorVenta.Location = new System.Drawing.Point(53, 211);
+            this.btnMenorVenta.Location = new System.Drawing.Point(175, 224);
             this.btnMenorVenta.Name = "btnMenorVenta";
             this.btnMenorVenta.Size = new System.Drawing.Size(467, 58);
             this.btnMenorVenta.TabIndex = 3;
@@ -77,7 +77,7 @@ namespace Actividad_Integradora_2_Problema_5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(17F, 41F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(642, 757);
+            this.ClientSize = new System.Drawing.Size(812, 810);
             this.Controls.Add(this.btnMenorVenta);
             this.Controls.Add(this.btnTodas);
             this.Controls.Add(this.rtbDatos);
