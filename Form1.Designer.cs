@@ -47,7 +47,7 @@ namespace Actividad_Integradora_2_Problema_5
             // 
             // rtbDatos
             // 
-            this.rtbDatos.Location = new System.Drawing.Point(175, 323);
+            this.rtbDatos.Location = new System.Drawing.Point(184, 316);
             this.rtbDatos.Name = "rtbDatos";
             this.rtbDatos.Size = new System.Drawing.Size(467, 382);
             this.rtbDatos.TabIndex = 1;
